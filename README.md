@@ -12,6 +12,6 @@
 ### About:
 This is the Latest Verion of the OriginX RP Launcher.
 
-- How to use:
+How to use:
 Extract the files to your desktop and run the setup.exe
 ---
