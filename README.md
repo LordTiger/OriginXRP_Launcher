@@ -1,4 +1,4 @@
-# OriginX RP (Owner Raathz/ Christopher Raathz) Install Files
+# OriginX RP (Owner Raathz) Install Files
 
 ### Info:
 - **Author:** LordTiger
